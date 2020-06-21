@@ -85,7 +85,7 @@ File: Layout CSS
 .sectiontitle .heading::after{display:block; position:absolute; bottom:0; left:50%; width:50px; height:2px; margin-left:-25px; content:"";}
 
 .videocontainer iframe{border:none; border-width:0;}
-.videocontainer figcaption{margin-top:10px;}
+.videocontainer figcaption{margin-top:20px;}
 
 .services{text-align:center;}
 .services li article{padding:30px 20px;}
